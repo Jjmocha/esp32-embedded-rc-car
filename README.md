@@ -44,9 +44,14 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 
 ## Media
 
+### Images
+
 ![RC Car](images/car.jpg)
 ![UI](images/ui.png)
 
+### Video
+
+[Demo Video](https://youtube.com/your-link)
 ## Status
 
 In progress
