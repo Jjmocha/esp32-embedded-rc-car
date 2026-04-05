@@ -42,6 +42,11 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 * Improved system stability through wiring and layout changes to reduce EMI
 * Debugged hardware/software interaction issues during integration
 
+## Media
+
+![RC Car](images/car.jpg)
+![UI](images/ui.png)
+
 ## Status
 
 In progress
