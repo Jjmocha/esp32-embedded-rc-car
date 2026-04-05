@@ -1,76 +1,48 @@
 # ESP32 Embedded RC Car
 
-A custom-built embedded robotic vehicle featuring real-time wireless control, multi-sensor integration, and custom PCB design. The system is controlled through a custom iPad UI over a self-hosted WiFi network.
+This project is a custom-built embedded robotic vehicle designed to explore real-time control, wireless communication, and multi-sensor integration. The system is controlled through a custom iPad interface over a self-hosted WiFi network.
 
----
+## Overview
 
-## 🚀 Features
+The goal of this project is to develop a complete embedded system that integrates hardware, firmware, and user interaction. The vehicle supports real-time control and incorporates multiple sensors for future autonomous features.
 
-* Real-time wireless control via custom iPad interface
-* ESP32-based embedded control system
-* PWM motor speed and steering control (L298 H-bridge)
-* Multi-sensor integration:
+## Features
 
-  * Time-of-Flight (ToF)
-  * Ultrasonic
-  * Line-following sensors
-  * Magnetometer
+* Wireless control via custom iPad UI over WiFi
+* ESP32-based control system
+* PWM motor and steering control using L298 H-bridge
+* Integration of ToF, ultrasonic, line-following, and magnetometer sensors
 * Interrupt-driven firmware for responsive sensor handling
 * Custom PCB design for power distribution and sensor interfacing
-* EMI reduction through optimized wiring and layout
 
----
+## System Description
 
-## 🧠 System Architecture
+The iPad interface sends control commands over a WiFi network hosted by the ESP32.
+The ESP32 processes these commands and updates motor speed and steering accordingly.
+Sensor data is handled using interrupt-driven routines to maintain responsiveness.
 
-User Interface (iPad)
-↓
-WiFi Commands
-↓
-ESP32
-┌───────────────┐
-│ Motor Control │ → DC Motor
-│ Servo Control │ → Steering
-│ Sensor Logic  │ ← Sensors
-└───────────────┘
+## Hardware
 
----
+* ESP32 development board
+* L298 H-bridge motor driver
+* DC motor and steering servo
+* ToF, ultrasonic, line sensors, and magnetometer
+* Custom PCB (KiCad)
 
-## 🛠️ Hardware
+## Software
 
-* ESP32 Dev Board
-* L298 H-Bridge Motor Driver
-* DC Motor + Servo
-* ToF, Ultrasonic, Line Sensors, Magnetometer
-* Custom-designed PCB (KiCad)
-
----
-
-## 💻 Firmware
-
-* Written in C/C++ (ESP32 platform)
-* Interrupt-driven sensor handling
+* Written in C/C++ for the ESP32 platform
 * PWM-based motor and steering control
-* Wireless command parsing over WiFi
+* Interrupt-based sensor handling
+* Wireless communication for command input
 
----
+## Development Notes
 
-## ⚙️ Challenges & Debugging
+* Resolved power integrity and signal noise issues using oscilloscope analysis
+* Improved system stability through wiring and layout changes to reduce EMI
+* Debugged hardware/software interaction issues during integration
 
-* Diagnosed ESP32 overheating due to PCB wiring issue
-* Resolved motor instability caused by signal noise
-* Improved system stability through grounding and EMI reduction
-* Debugged hardware using oscilloscope measurements
+## Status
 
----
-
-## 📸 Project Media
-
-*(Add images here — build, wiring, UI, PCB)*
-
----
-
-## 📌 Status
-
-🚧 In Progress — expanding sensor integration and control features
+In progress
 
