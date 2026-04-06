@@ -1,13 +1,13 @@
 # PCB Designs
 
 ## ESP32 PCB
-![ESP32 PCB](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20172556.png)
+<img src="https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20172556.png" width="500"/>
 
 ## ESP32 Schematic
-![ESP32 Schematic](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20174154.png)
+<img src="https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20174154.png" width="500"/>
 
 ## Power Board
-![Power Board](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20174523.png)
+<img src="https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20174523.png" width="500"/>
 
 ## Sensor Array (TCRT5000-Based)
-![Sensor Array](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20175622.png)
+<img src="https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20175622.png" width="500"/>
