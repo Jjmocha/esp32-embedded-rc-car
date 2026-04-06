@@ -46,14 +46,14 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 
 ### Images
 
-![RC Car](images/car.jpg)
+![RC Car]![IMG_2640](https://github.com/user-attachments/assets/3ee5fc07-d590-4d6d-8f63-82ff12d64a66)
 ![UI]<img width="1210" height="834" alt="IMG_0550" src="https://github.com/user-attachments/assets/23f33ee9-5bc5-4465-afe6-6f4bcec9bea6" />
 
 
 ### Video
 
-[Demo Video](https://drive.google.com/file/d/1CcIi-gbw2B6EG2qV4E2GaVD5rpzJLl_D/view?usp=drivesdk)
-[Demo Video](https://drive.google.com/file/d/1GoMZly_gT9LFMy00ZyDUthx_JVxsNR9l/view?usp=drivesdk)
+*[Demo Video](https://drive.google.com/file/d/1GoMZly_gT9LFMy00ZyDUthx_JVxsNR9l/view?usp=drivesdk)
+*[Demo Video](https://drive.google.com/file/d/1CcIi-gbw2B6EG2qV4E2GaVD5rpzJLl_D/view?usp=drivesdk)
 
 ## Status
 
