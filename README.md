@@ -46,17 +46,21 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 
 ### Images
 
-<img src="https://github.com/user-attachments/assets/3ee5fc07-d590-4d6d-8f63-82ff12d64a66" width="500">
+RC Car
+<img src="https://github.com/user-attachments/assets/3ee5fc07-d590-4d6d-8f63-82ff12d64a66" width="500"><br><br>
 
+User Interface
 <img src="https://github.com/user-attachments/assets/23f33ee9-5bc5-4465-afe6-6f4bcec9bea6" width="500">
 
 
 ### Video
+
+Demonstrations of real-time control and system response:
 
 - [Steering and Throttle Test](https://drive.google.com/file/d/1CcIi-gbw2B6EG2qV4E2GaVD5rpzJLl_D/view?usp=drivesdk)
 - [Wireless Control Demo](https://drive.google.com/file/d/1GoMZly_gT9LFMy00ZyDUthx_JVxsNR9l/view?usp=drivesdk)
 
 ## Status
 
-In progress — currently improving steering control to support continuous angle adjustment and reduce jitter during operation.
+In progress — refining steering control for continuous angle adjustment and improving signal stability to reduce jitter.
 
