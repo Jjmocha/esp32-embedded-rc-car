@@ -52,8 +52,8 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 
 ### Video
 
-*[Demo Video](https://drive.google.com/file/d/1GoMZly_gT9LFMy00ZyDUthx_JVxsNR9l/view?usp=drivesdk)
 *[Demo Video](https://drive.google.com/file/d/1CcIi-gbw2B6EG2qV4E2GaVD5rpzJLl_D/view?usp=drivesdk)
+*[Demo Video](https://drive.google.com/file/d/1GoMZly_gT9LFMy00ZyDUthx_JVxsNR9l/view?usp=drivesdk)
 
 ## Status
 
