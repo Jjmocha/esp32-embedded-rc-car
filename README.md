@@ -47,7 +47,8 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 ### Images
 
 ![RC Car](images/car.jpg)
-![UI](images/ui.png)
+![UI]<img width="1210" height="834" alt="IMG_0550" src="https://github.com/user-attachments/assets/23f33ee9-5bc5-4465-afe6-6f4bcec9bea6" />
+
 
 ### Video
 
