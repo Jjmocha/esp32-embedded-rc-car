@@ -58,5 +58,5 @@ Sensor data is handled using interrupt-driven routines to maintain responsivenes
 
 ## Status
 
-In progress
+In progress — currently improving steering control to support continuous angle adjustment and reduce jitter during operation.
 
