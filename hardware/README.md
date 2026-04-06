@@ -10,4 +10,4 @@
 ![Power Board](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20174523.png)
 
 ## Sensor Array (TCRT5000-Based)
-![Sensor Array](sensor_array.png)
+![Sensor Array](https://github.com/Jjmocha/esp32-embedded-rc-car/blob/main/hardware/Screenshot%202026-04-06%20175622.png)
